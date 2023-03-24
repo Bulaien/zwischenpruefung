@@ -1,0 +1,2030 @@
+﻿WWBSs Zr & Pr’ü FE E 
+
+Aungsfragen BT 
+
+  
+ZwischwnPrüfung_2_20.03.2023 3388. . NEEIINTT 8
+1. HWBS 2
+
+3399. . NNEEIINNTT 8
+2. HWBS 2
+
+4400. . NEEIINTT 8
+3. HWBS 2
+
+4411. . Dattenbbaannkkeenn 8
+4. HWBS 2
+
+4422. . Dattenbbaannkkeenn 8
+5. HWBS 2
+
+4433. . Dattenbbaannkkeenn 1111 
+6. HWBS 3
+
+44. Dattenbbaannkkeenn 1111 
+7. HWBS 3
+
+45. Dattenbbaannkkeenn 1122 
+8. HWBS 3
+
+46. Dattenbbaannkkeenn 1133 
+9. HWBS 3
+
+47. Dattenbbaannkkeenn 1133 
+10. HWBS 3
+
+48. Array 1144 
+11. HWBS 4
+
+49. Array 1144 
+12. HWBS 4
+
+50. Array 1144 
+13. HWBS 4
+
+51. Funktion 1155 
+14. HWBS 4
+
+52. Funktion 1155 
+15. HWBS 4
+
+53. Funktion 1166 
+16. HWBS 4
+
+54. Wisisseennsfsrfraaggee 1166 
+17. HWBS 5
+
+55. Wisisseennsfsrfraaggee 1166 
+18. HWBS 5
+
+56. Wisisseennsfsrfraaggee 1166 
+19. HWBS 5
+
+57. Wisisseennsfsrfraaggee 1177 
+20. HWBS 5
+
+5588. . WWisissseennsfsrfraaggee 1177 
+21. NEINT 5
+
+5599. . WIISSOO 1177 
+22. NEINT 6
+
+6600. . WWwIISSsOo 1177 
+23. NEINT 6
+
+6611. . WIISSOO 1177 
+24. NEINT 6
+
+6622. . WIISSOO 1177 
+2255. . NEINT 6
+
+6633. . WIISSOO 1188 
+2266. . NEINT 6
+
+6644. . WIISSOO 1188 
+2277. . NEEIINTT 6
+
+6655. . WIISSOO 1188 
+2288. . NNEEIINNTT 6
+
+6666. . WIISSOO 1188 
+2299. . NEEIINTT 7
+
+6677. . WIISSOO 1188 
+3300. . NEEIINTT 7
+
+6688. . WIISSOO 1199 
+3311. . NEEIINTT 7
+
+6699. . WIISSOO 1199 
+3322. . NEEIINTT 7
+
+7700. . WIISSOO 1199 
+3333. . NNEEIINNTT 7
+
+7711. . WIISSOO 1199 
+3344. . NEEIINTT 7
+
+7722. . WIISSOO 2200 
+3355. . NEEIINTT 7
+
+7733. . WIISSOO 2200 
+3366. . NEEIINTT 8
+
+7744. . WIISSOO 2200 
+3377. . NEEIINTT 8
+
+  
+
+WBBSS__ZZPP__2 2 1
+   
+
+SU HE IE ER TE ER DE HE DE TE au san m un mn m mm u m um 
+
+3: 5 : BEBEEEEEEEREREREBEEEER  
+
+BREI BIBI BE 5 > 
+= 
+
+
+
+WWES ZPO E Prü FaäzE = 
+
+fungsfragen BT 
+
+  
+
+7755. . WIISSOO 2200 
+
+7766. . WIISSOO 2200 
+
+7777. . WIISSOO 2200 
+
+7788. . WIISSOO 2211 
+
+7799. . WIISSOO 2211 
+
+  
+
+WBBSS__ZZPP__2 2 2
+   
+
+
+
+WBES ZPOE Prü FanE 
+
+fungsfraßer [re | 
+
+  
+11.. HHWWBSB S
+HWBS 
+Frage 1 von 78 (3 Punkte) 
+Nicht beantwortet (in Bearbeitung) 
+
+Was ist die Eingabevervollständigung? 
+
+O Abfrage nach Datum und Uhrzeit 
+
+@ Benutzung der TAB-Taste zur vollständigen Anzeige von Pfad- und Befehlsnamen 
+
+22.. HWHWBSB S
+HWBS 
+Frage 2 von 78 (3 Punkte) 
+Nicht beantwortet (in Bearbeitung) 
+
+Welche Angabe wird auch als absoluter Pfad unter WINDOWS bezeichnet? 
+
+O system32\find.exe 
+
+OÖ /etc/users/group 
+
+@ C:\Windows\system32\find.exe 
+
+33.. HWHBWSB S
+HWBS 
+Frage 3 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Was ist ein Prozess? 
+
+OÖ Eine konkrete Beschreibung eines Verfahrens (Algorithmus) mit dem Ziel eine Aufgabe (ein Problem) zu lösen. 
+
+O Ein Prozess ist ein “aktives”, “\ebendes” Programm. Er fordert also Betriebsmittel an und benutzt diese bei Bedarf. 
+
+4. HWBS
+HWBS 
+Fra4g veon  78 (3 Punkte) 
+Nicht beantwortet 
+
+Ihr Firmennetzwerk umfasst eine Active Directory-Domänendienste (AD DS) Domäne mit dem Namen wbs.intern. Die Domäne enthält einen Server mit dem Namen Server1. Auf Ser- 
+ver1 ist das Betriebssystem Windows Server 2016 installiert. 
+
+Sie erstellen auf Server1 einen Drucker mit dem Namen Drucker. Sie geben Drucker1 im Netzwerk frei und veröffentlichen ihn in Active Directory. 
+
+Sie müssen einer Gruppe mit dem Namen Gruppe1 die Möglichkeit für die Verwaltung von Druckeri erteilen. 
+
+Wie gehen Sie vor? 
+
+O Verwenden Sie die  Drucl und kor  Sie die Sic von Drucker1. 
+
+© Verwesnie ddie nDru c 18 und konfigı Sie die F von Druckeri. 
+
+O Verwenden Sie die Druckverwaltung und konfigurieren Sie die erweiterten Einstellungen von Drucker1. 
+
+OÖ Verwenden Sie Active Directory-Benutzer und -Computer und konfigurieren Sie die Sicherheitseinstellungen von Drucker!. 
+
+55.. HHWWBSB S
+HWBS 
+Frage 5 von 78 (4Punkte) 
+Nicht beantwortet (In Bearbeitung) 
+
+Ordnen Sie den Druckkomponenten die richtige Beschreibung zu! 
+
+Druckp verbindet den Drucker mit dem Druckgerät. Kommunikation Anwendung 
+Anschluss des Druckgerätes an den Computer - Druckgerät 
+
+  
+nn wird für die Freigabe von Druckern benötigt. | 
+on repräsentiedrats  Druckgeräte in Windows   
+
+| physikalisches Gerät das den Druckauftrag ausgibt | 
+
+   physikalisches Gerät das den Druckauftrag ausgibt | repräsentiert das Druckgeräte in Windows | 
+
+oT | Anschluss des Druckgerätes an den Computer | 
+
+ee verbindet den Drucker mit dem Druckgerät, Kommunikation Anwen- 
+dung - Druckgerät | der Vorgang der Druckerzeugung | 
+
+  
+
+WwBSs_SZ_Pz_p2 2 © 3=) 
+    
+
+     
+
+
+
+WWBS ZP 5 Prii FanE  3“ 
+
+fungsfraßer [re 
+
+  
+
+66H.. WBHWSB S
+HWBS 
+Frage 6 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Mit welcher Antwort kann man die Geschwindigkeit eines Prozessors (CPU) angeben? 
+
+OÖ 120 Gigabyte 
+
+OÖ 32 Bit 
+
+O© 2,8 Gigahertz 
+
+© 300 Kilobit/Ssekunde 
+
+77.. HHWWBSB S
+HWBS 
+Frage 7 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Sie betreiben einen Windows Server 2012 als Dateiserver für Ihr lokales Netzwerk. Sie haben eine Freigabe mit der Bezeichnung Betriebsausflug erstellt, wollen aber auf keinen Fall, 
+dass die Freigabe von Benutzern des Netzwerkes unter Verwendung des Windows Explorers gefunden werden kann. 
+
+Sie erweitern die Anzeige des Dateiservers in der Netzwerkumgebung Ihres Clientrechners und bekommen die geheime Freigabe angezeigt. 
+
+Wie ändern Sie die Konfiguration der Freigabe, so dass Sie nicht über die Netzwerkumgebung sichtbar ist? 
+
+© Entziehen Sie der Gruppe Benutzer das Freigabe Recht Lesen von dem freigegebenen Ordner. 
+
+© Ändern Sie den Namen der Freigabe ab In Betriebsausflug# 
+
+O Löschen Sie die Freigabe und erstellen Sie sie mit dem Namen Betriebsausflug$ neu 
+
+© Entziehen Sie der Gruppe Benutzer das NTFS Recht Lesen von dem freigegebenen Ordner 
+
+8. HWBS
+HWBS 
+Frage 8 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Ein PC-Anwender hat auf seiner Festplatte die Laufwerke C: und D: eingerichtet. Er arbeitet auf C: und verwendet das Laufwerk D: um nach Arbeitsschluss Sicherungskopien abzuspei- 
+chern. 
+
+Welchen Nachteil hat dieses Sicherungsverfahren? 
+
+O Der Handhabungsaufivand ist höher als bei Bandsicherungen 
+
+O Die Sicherungszeiten sind deutlich länger als bei Bandsicherungen 
+
+O Die versehentliche Löschung einer Datei auf D: am nächsten Tag führt zu Datenverlust 
+
+O Die versehentliche Löschung einer Datei auf C; am nächsten Tag führt zu Datenverlust 
+
+O Die Daten stehen nach einem Defekt der Festplatte nicht mehr zur verfügung 
+
+99.. HWHBWSB S
+HWBS 
+Frage 9von 78 (3 Punkte) 
+Nicht beantwortet (in Bearbeitung) 
+
+Ein Auszubildender kommt nach der Berufsschule in ihren Betrieb und zeigt ihnen seine Notizen. Auf einer steht eine binäre Zahl und er meint, es wäre eine IP-Adresse. Auf der Notiz 
+steht folgende Zahl: 
+
+1100 0000 . 1010 1000 . 0000 1010.1001 0100 
+
+Er fragt Sie nach dem Dezimalwerten der IP-Adresse. 
+
+Wie lautet die IP-Adresse in Dezimalschreibweise? 
+
+© 192.168.9.10 
+
+O 12.168.16.10 
+
+® 192.168.10.148 
+
+O 172.17.54.148 
+
+101.0. HHWWBSB S
+HWBS 
+Frage 10 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Welcher der folgenden Komponenten einer Active Directory Domäne sind logische Komponenten? 
+
+Ditte wählen Sie masirmel 2 der 6 Antworteni 
+
+OD) rooc 
+
+D Domänen 
+
+OD Globaler Katalogserver 
+
+Ü Organisationseinheiten 
+
+Ü) Datenspeicher 
+OD Container 
+
+  
+
+WwBBSs__ZzPp_2 2 F 4
+    
+
+
+
+WWBS ZP 5 Prii FanE 
+
+fungsfraßer Be 
+
+  
+1111.. HHWWBSB S
+HWBS 
+Frage 11 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Ordnen sie die Powershel CMDlets den Installatiionsoptionen der Grafischen Oberfläche zu. 
+
+| Neue Domäne zu einer vorhandenen Gesamtstruktur hinzufügen | | Install-ADDSDomaincontroller | 
+
+| Domänencontroller zu vorhandener Domäne hinzufügen | | Install-ADDSDomain | 
+
+| Neue Gesamtstruktur hinzufügen | | Install-ADDSForest | 
+
+12. HWBS
+HWBS 
+Frage 12 von 78 (3 Punkte) 
+Nicht beantwortat 
+
+Können mit dem Konfigurations-Assistent für die Active Directory-Domänendienste Rollen installiert werden? Wenn ja welche? 
+
+O DHCP 
+
+OÖ Nein 
+
+os 
+
+© DNS 
+
+13. HWBS
+
+Wie nenntsich das Programm, das unmittelbar nach dem Einschalten des PCs startet? 
+
+Bitte wählen Sie maximal 1 der 3 Antworten! 
+
+El BIOos 
+
+B_OS 
+
+052 
+
+14. HWBS
+HWBS 
+Frage 14 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Welche Aussage bzgl. Windows ist korrekt? 
+
+DI Eine kopierte Datei erbt die Berechtigungen des Zielordners 
+
+U] Freigabe-Berechtigung und NTFS-Berechtigungen sind das Gleiche 
+
+U] Windows Server unterstützen keine Dateiberechtigung 
+
+15. HWBS
+
+DO strg-c 
+
+U strg-k 
+
+DO strg-z 
+
+16. HWBS
+Ihr Netzwerk enthält eine Active Directory-Domäne mit dem Namen wbstraining.de. Die Domäne enthält einen Computer mit dem Namen Computer1. Auf Computer1 ist das Be- 
+triebssystem Windows 10 installiert. 
+
+Sie erstellen auf Computer1 einen Ordner und weisen der Gruppe Jeder die NTFS-Berechtigungen Vollzugriff zu. 
+
+Sie geben den Ordner als Freigabe1 im Netzwerk frei und konfigurieren die folgenden Freigabeberechtigungen: 
+
+ !  
+Benutzerl Vollzugriff 
+
+Benutzer? Ändern 
+     
+
+Welche zwei Aktionen können beim Zugriff auf Freigabe1 von Benutzer] ausgeführt werden, nicht jedoch von Benutzer2? 
+
+Wählen Sie zwei Antworten 
+
+Bitte wählen Sie maximal2  der 5 Antworten! 
+
+DI Den Besitz einer Datei übernehmen. 
+DI Kopieren einer Datel, die von einem anderen Benutzer erstellt wurde, in einen Unterordner. 
+
+DI Ändern der Berechtigungen für eine Datei, 
+
+DD) Löschen einer Datei, die von einem anderen Benutzer erstellt wurde 
+
+U] Umbenennen einer Datei, die von einem anderen Benutzer erstellt wurde, 
+
+  
+
+WwBSs_SZ_Pz_p2 2 © 5
+    
+
+
+
+WWBS ZP 5 Prii Fa E 8” 
+
+fungesfragen Be 
+
+  
+17. HWBS
+
+Welches Kommando unter Linux zeigt Ihnen alle Partitionen auf allen Festplatten? 
+
+O mtab 
+
+O fstab 
+
+O fdisk -I 
+® df 
+O du 
+
+181.8. HHWWBSB S
+Sie bekommen von Ihrem ISP eine IPv6-Adresse 2003:3835:42fb:f000:: /54 zugewiesen. 
+Wieviele Subnetze könnten Sie theoretisch bilden? 
+
+© 4.096 
+© 1.024 
+© 2.048 
+O8 
+
+1199.. HHWWBSB S
+HWBS 
+Frage 19 von 78 (2 Punkte) 
+
+Nicht beantwortet 
+
+Für welche Geräte wurde der AGP-Port verwendet? 
+
+OÖ Grafikkarten 
+
+OÖ Netzwerkkarten 
+
+OÖ SCSI-Controller-Karten 
+
+OÖ Soundkarten 
+
+2200.. HHWWBSB S
+Welches RAID-Level ist ein Stripe Set mit Parity? 
+
+O5 
+
+O7 
+
+O0 
+
+O1 
+
+2211. . NNEEIINNTT 
+NEINT 
+Frage 21 von 78 (3 Punkte) 
+Nicht beantwortet 
+
+Welcher Spaltenindex entspricht der Negation des logischen UND von a und b? 
+
+alb/]112731415  
+o0|o]jJo/o/Jo,11,1[1 
+  
+
+o|1]jJ0o/0o/11/01 
+
+  1/0  7|0  7,/ 1 7/1  7/J  07|1]|1 1/17]17,17/17/J0  7||01     
+O4 
+O3 
+O1 
+O6 
+
+O2 
+05 
+
+  
+
+WBBSS__ZZPP_2_ 2 u6 
+    
+
+
+
+WES ZP I Prü FaGE 
+funesfrapen Bu 
+
+  
+2222. . NEEIINTT 
+
+Regeln für die Kommunikation unter Computern heißen: 
+
+OÖ Protokolle 
+
+OÖ Dienste 
+
+OÖ Schichten 
+
+OÖ Topologien 
+
+2233. . NEEIINTT 
+Welche Auswirkung hat eine zu geringe Datenübertragungsrate für den Anwender in einem Intranet? 
+
+O Die Anwender haben mit langen Antwortzeiten zu rechnen. 
+
+O Hackern wird das Abhören erleichtert. 
+
+O Der Web-Server stellt seinen Betrieb häufiger wegen Überlastung ein. 
+
+O Die Übertragung wird häufig unterbrochen. 
+
+O Viele Anwendungen können nicht aufgerufen werden. 
+
+2244. . NEEIINTT 
+Die folgende IPv6-Adresse soll in verkürzter Form dargestellt werden 
+
+2001:0DB8:0045:0000:0000:0C00:0000:0000 
+
+Wählen Sie die kürzeste Schreibweise aus. 
+
+© 2001:DB8:45::C00:: 
+
+© 2001:0DB8:0045::0C00:: 
+
+© 2001:0DB8:0045:0000:0000:0C00:: 
+
+O 2001:DB8:45:0:0:C00:: 
+
+2255. . NEEIINTT 
+
+Welcher Begriff wird verwendet, um Dateneinheiten auf der Sicherungsschicht (Data Link Layer) zu beschreiben? 
+
+© Nachricht 
+
+OÖ Datagramm 
+
+OÖ Frame 
+
+O Paket 
+
+2266. . NEEIINTT 
+Sie wollen den Inhalt einer Festplatte 5 TiB über ein 1 GBit-Netzwerk übertragen. 
+Berechnen Sie die Dauer der Übertragung in Sekunden. (Overhead ist nicht zu berücksichtigen.) 
+
+Hinweis: 1 TiB = 2440 Byte, 1 GBit = 10X9 Bit 
+
+O 3.150 Sekunden 
+
+O 20.480 Sekunden 
+
+O 51.200 Sekunden 
+
+O 43.980Sekunden 
+
+2277. . NEEIINTT 
+
+Welche beiden Aussagen zur asymmetrischen Datenverschlüsselung sind zutreffend? 
+
+Bitte wählen Sie maximal 2 der 4 Antworten! 
+
+[U] Verschlüsselung mit öffentlichen Schlüsseln ist weniger sicher als die mit privaten Schlüsseln. 
+
+L] Der öffentliche Schlüssel wird zusammen mit einem privaten Schlüssel erstellt. 
+
+U] Der öffentliche Schlüssel wird zur Verschlüsselung und der private zur Entschlüsselung von Nachrichten verwendet. 
+
+U] Verschlüsselte Daten sind gefährdet, wenn der öffentliche Schlüssel bekannt wird. 
+
+2288. . NEEIINTT 
+
+Die Authentifizierung soll mit einem digitalen Zertifikat erfolgen. 
+Welches Schutzziel wird durch den Zertifikatsbestandteil Public Key sichergestellt? 
+
+OÖ Verfügbarkeit 
+
+Ö Vertraulichkeit 
+
+OÖ Integrität 
+
+OÖ Authentizität 
+
+  
+
+WBBSS__ZZPP__2 2 7
+   
+
+
+
+WWES_ ZP 2 Prü F@EnE ı- 
+
+funesfrapen Bu 
+
+  
+2299. . NEEIINTT 
+
+Sie bekommen von Ihrem ISP eine IPv6-Adresse 2003:3835:42fb:f000:: /54 zugewiesen. 
+Wieviele Subnetze könnten Sie theoretisch bilden? 
+
+O 4.096 
+
+OÖ 1.024 
+
+O 2.048 
+o8 
+3300. . NEEIINTT 
+
+Welcher Standard beschreibt WLAN? 
+
+OÖ IEEE 802.15 
+
+Ö IEEE 802.11 
+
+OÖ IEEE 802.4 
+
+OÖ IEEE 802.3 
+
+OÖ IEEE 802.12 
+3311. . NEEIINTT 
+
+Welche der folgenden Aussagen benennt einen Vorteil von IPv6 gegenüber IPv4? 
+
+OÖ Mobile IP 
+
+OÖ NAT in Header integriert 
+
+O Effektives Broadcasting 
+
+OÖ Umfangreichere Routingtabellen 
+3322. . NEEIINTT 
+
+Welche Eigenschaft trifft auf UDP (User Datagram Protokoll) nicht zu? 
+
+OÖ geringer Overhead 
+
+O sicher in der Übertragung 
+
+OÖ schnell 
+
+OÖ verwendet Portnummern zur Adressierung 
+
+3333. . NEEIINTT 
+
+Welche Adressierungsart wird unter IPv6 nicht verwendet? 
+
+OÖ Anycast 
+
+OÖ Multicast 
+
+OÖ Unicast 
+
+OÖ Broadcast 
+
+3344. . NEEIINTT 
+Ordnen Sie die folgenden Netzwerktypen aufsteiend nach ihrer Ausdehnung. Beginnen Sie mit dem kleinsten Netzwerktyp. 
+
+ÜlDie vorgegebene Anordnung ist korrekt. 
+
+3355. . NEEIINTT 
+Wie viele Bits eines VLAN-Tags werden für die VLAN-ID verwendet? 
+
+OÖ 12Bits 
+
+O 8Bits 
+
+© 16 Bits 
+
+  
+
+WBBSS__ZZPP_2_ 2 ®|8 
+   
+
+
+
+“WES ZPE Prü F@ESE 7“ 
+
+fungsfragen Bat 
+
+  
+3366. . NEEIINTT 
+
+Wie viele Bytes werden bei einem VLAN einem Ethernet-Frame hinzugefügt, wenn es getagged ist? 
+
+O 4Byte 
+O 16 Byte 
+OÖ 6 Byte 
+
+3377. . NEEIINTT 
+
+Welche Netztopologie wird beim Mobilfunk eingesetzt? 
+
+OÖ Sterntopologie 
+
+OÖ Mobilfunktopologie 
+
+OÖ Zelltopologie 
+
+3388. . NNEEIINNTT 
+Handelt es sich im folgenden um eine gerade Parität oder um eine ungerade Parität? 
+
+ER TEE ERS ER TE ET T EHRE 
+1 0 0 1 
+
+0 1 0 0 
+
+0 1 1 1 
+
+0 1 0 0 
+
+OÖ gerade Parität 
+
+OÖ ungerade Parität 
+
+3399. . NEEIINTT 
+
+Die strukturierte Verkabelung unterscheidet drei Bereiche. Welche sind es? 
+
+OÖ Haus-, Etagen-, Arbeitsplatzbereich 
+
+OÖ Primär-, Sekundär-, Tertiärbereich 
+
+OÖ Campus-, Etagen-, Bürobereich 
+
+4400. . NEEIINTT 
+
+Wie wird die VPN-Verbindungs-Art zwischen zwei Clients genannt? 
+
+OÖ site-to-site 
+
+ÖO end-to-site 
+
+OÖ end-to-end 
+
+414D.1a .teDnabteannbkanekne n
+Aus einem ER-Modell für eine Datenbank soll später ein relationales Datenmodell entwickelt werden. In einem Gespräch mit einem Mitarbeiter Ihres Auftraggebers wird der Begriff 
+"Normalisierung” genannt. 
+
+Welche Aussage trifft auf diesen Begriff zu? Wählen Sie die zutreffende Lösung. 
+
+© Normalisierung Ist eine Methode, um die zulässige Anzahl von Nachkommastellen beim Datentyp float zu ermitteln. 
+
+© Normalisierung ist eine Methode zur Erreichung einer redundanzfreien Datenspeicherung in den Relationen eines Datenbankschemas 
+© Normalisierung ist eine Methode, um die verwendeten Datentypen zwischen den Spalten einer Tabelle zu koordinieren. 
+O Normalisierung ist eine Methode für die L: ıng von Zeich beider i 'g von Datentypen für Tabellenspalten. 
+
+  
+
+WBBSS__ZZPP_2_ 2 59 
+   
+
+ooo©  mr 
+
+
+
+WWES ZPO F Prü F@ESE 7“ 
+
+fungsfrager 
+
+  
+42. Datenbanken
+Nachfolgend ist ein Auszug aus einem Tabellen-Modell abgebildet: 
+
+  
+ persom al  aka  
+
+4 
+O nachname O bezecheung 
+© vorname © gruppe FK 
+Ole © ikpreis 
+o OeFK 
+© geschlocht FK = © ehpres 
+
+210 vorgeseizter FK © Ieferzet 
+BO ebiig Fk © mndbestand 
+
+O xeversar © hinweis 
+© gebdatum © mengabssteit 
+© famstand mu 
+© Masse O aktır 
+Ö land © inaklivam 
+Om  © inaktirron 
+On 
+© lekken      
+
+ arkeigg uppen © mebil 
+© bank wii 
+Ob SO great 
+O kianır 
+
+  © eintritt 
+
+  O austrit 
+© Pinaeis 
+
+ © gehat       
+
+ atelu ng 
+4 
+Stat    
+
+Das Tabellen-Modell soll um die Möglichkeit erweitert werden, daß vom Personal jeweils ein Mitarbeiter als Artikelgruppen-Manager gespeichert werden kann. Dabei soll jeder Artikelgruppe ein Manager zugewiesen werden können. Ein 
+Mitarbeiter soll aber mehreren Artikelgruppen zugewiesen werden können. 
+Wie ist das Tabellen-Modell zu ergänzen? Wählen Sie aus den unten stehenden Varianten die richtige Lösung. 
+
+OÖ     
+personal artikel 
+
+ 
+
+Yunupk __ Hauck ___ 
+© nachname OÖ bezeichnung 
+© vorname OÖ gruppe FK 
+© titel Ö vkpreis 
+© akadgrad © lief FK 
+© geschlecht FK © ekpreis 
+© vorgesetzter FK © lieferzeit 
+© abtla FK © mindbestand 
+
+Ö sazversnr © hinweis 
+© gebdatum © mengebestellt 
+© famstand 
+OÖ strasse 
+© land 
+OÖ pz   OO mwst 
+
+© aktiv 
+
+© inaktiram 
+© inaktivvon   
+
+oO or 
+© telefon 
+© mobil 
+© bank 
+
+  O bk 
+© ktonr 
+© einträt     
+
+artkeigruppen 
+
+      
++aukB o 
+OÖ grtext 
+
+—————1    9 artgr_mngr FK 
+
+  © austritt   
+© hinweis 
+© gehalt 
+ 
+
+  
+abteilung 
+
+tl % abtnr PK 
+
+  O text 
+     
+
+Variante wählen: 
+
+  
+
+WBBSS__ZZPP__2 2 10
+   
+
+
+
+WWES ZPO F Prü FaizE 
+
+fungsfrager 
+
+  
+
+    
+
+personal artkel 
+  
+
+Yunuck $ aduEK_ 
+O nachname Ö bezeichnung 
+Ö vorname Ö gruppe FK 
+OÖ tiel O vkpreis 
+Ö akadgrad ÖO lief FK 
+© geschlecht FK OÖ ekpreis 
+
+  OÖ vorgesetzter FK OÖ lieferzeit 
+OÖ abtig FK © mindbestand 
+
+O sozversnr Ö) hinweis 
+Ö gebdatum © mengebestell 
+OÖ) famstand Ö mwst 
+Ö strasse 
+OÖ land 
+O plz 
+O ort     OÖ aktiv 
+
+Ö ınaktw am 
+    Ö ıinaktivvon   
+
+Ö telefon      
+O mobil   
+
+ÖO bank 
+
+      
+
+OÖ biz   
+Ö ktonr 
+Ö einträt      
+O austritt 
+OÖ hinweis 
+© gehalt 
+   
+
+  
+
+abtelung 
+ 
+
+——4 uk 
+  O text 
+     
+
+Variante wählen: 
+
+  
+
+WBBSS__ZZPP__2 2 11
+   
+
+
+
+WWBS ZF 5 Pri FaizE 
+
+fungsfrager 
+
+  
+
+  
+  
+
+personal artikel 
+ 
+
+ 
+
+Yunuck $ aduuEk 
+Ö nachname © bezeichnung 
+Ö vorname O gruppe FK 
+OÖ titel OÖ vkpreis 
+
+© akadgrad O lief FK 
+© geschlecht FK Ö ekpreis 
+Ö vorgesetzter FK O lieferzek 
+Ö abtig FK © mindbestand 
+OÖ artgr FK   © hinweis 
+
+Ö sozversnr Ö mengebestelt 
+OÖ gebdatum 
+© famstand 
+Ö strasse 
+OÖ land   © mwst 
+
+O aktiv 
+Ö inaktiv am 
+© inaktivvon   
+
+OÖ pk 
+OÖ ort 
+Ö telefon   
+
+OÖ mobil 
+  
+
+  OÖ bank     
+Ya_ 2 B o 
+
+Obk 
+Ö ktonr   O grtext   
+
+  Ö einträt 
+O austritt 
+OÖ hinweis 
+Ö gehalt 
+   
+
+abtelung 
+ 
+
+I 
+  OÖ text 
+     
+
+Variante wählen: 
+
+43. Datenbanken
+
+Welche Aussage zur referentiellen Integrität in relationalen Datenbanken ist wahr? 
+
+OÖ Es dürfen nicht mehrere Fremdschlüsselwerte existieren, die auf denselben Primärschlusselwert verweisen. 
+
+O Die Referentielle Integrität einer relationalen Datenbank ist verletzt. wenn es in einer Fremdschlüsselspalte einen Wert gibt. der nicht in der Primärschlüsselspalte der referenzierten Tabelle existiert. 
+
+OÖ Eine Tabelle muss immer mindestens einen Fremdschlüssel haben. 
+
+O Tabellen dürfen nicht mehr als eine Fremdschlüsselspalte besitzen. 
+
+44. Datenbanken
+
+Welche Aussage für einen Primärschlüssel ist wahr? 
+
+OÖ Zwei Datensätze aus derselben Tabelle dürfen nicht den gleichen Primärschlüssel-Wert besitzen. 
+
+OÖ In einem Datenbankschema darf es nur eine einzige Tabelle mit einem Primärschlüssel geben. 
+
+OÖ Zwei Datensätze aus unterschiedlichen Tabellen dürfen nicht den gleichen Primärschlüssel-Wert besitzen. 
+
+  
+
+WBBSS__ZZPP__2 2 12
+   
+
+
+
+WWBS ZF 5 Pri FaizE 
+
+fungsfrager Bat 
+
+  
+45. Datenbanken
+Datenbanken 
+Frage 45 von 78 (10 Pus nkte) 
+Nicht beantwortet 
+
+Sie haben die Aufgabe, eine Tabelle auszuwerten und einen Wert zu ermitteln: Für wieviel unterschiedliche Kunden sind das Interessengebiet "Heimwerken" (intcode: HWE) bzw. "Werk- und Baustoffe" 
+
+(intcode: BAU) in dieser Tabelle erfasst? 
+
+Beachten Sie, dass für Kunden auch mehrere Interessengebiete gespeichert sein können. 
+
+kunden personal 
+ bestellungen 
+
+  
+Yiuik Ylasu7° i 
+oO nachname © nachname O datum 
+oO vomame © vomame © lieferant FK F— 
+oO titel © titel 2] © bearbeiteFrK  
+
+oO akadgrad O akalgrad © bemerkung 
+
+oO firma! © geschlecht FK © status FK r— 
+
+oO firma2 21 © vorgesetzter FK 
+
+oO geschlecht FK 210 abtlg FK 
+© sozversnr   
+© gebdatum   
+© famstand   
+© strasse 
+© land  
+
+     oO web 
+oO erfasst 
+oO skonto 
+oO skontotage 
+oO ziel 
+oO lieferschein   
+oO gesperrt 
+oO hinweis               
+
+      
+
+  kundeninteressen 
+  
+
+= klurskis 
+Waulabsie       
+      
+
+ 
+Interessen       anreden   
+ 
+
+—— werk _ Ya 
+oO text 
+   O text 
+
+© briefkopf 
+  © briefanrede   
+
+Auszug aus der Tabelle 'kundeninteressen': 
+
+EE Resits [dl Messages 
+
+kdnr intcode 
+1 121 BAU 
+2 121 HWE 
+
+3 122 KUE 
+4 123 
+5 123 
+6 124 
+7 125 
+8 125 
+9 125 
+10 126 
+
+1 126 
+12 127 
+13 128 
+14 129 
+15 130 
+16 131 
+17 132 
+18 133 
+19 134 
+
+20 135 
+
+Vervollständigen Sie die unten stehende SQL-Anweisung: 
+
+Hinweise zum Eintragen der Lösung: 
+
+1. Alle unten aufgeführten Eingabefelder müssen eine SQL-Anweisung ergeben (auch wenn hier eventuell mehr als eine Zeile dargestellt ist). 
+2. Tragen Sie die Worte, Zahlen bzw. Operatoren der SQL-Anweisung einzeln in die Eingabefelder ein. 
+3. Es wird nicht zwischen Groß- und Kleinschreibung unterschieden. 
+4. Fehler in der Rechtschreibung führen zu Fehlern in der Lösung und damit zu Punktabzug. 
+5. (überflüssige) Leerzeichen vor oder nach den Einträgen werden nicht als Fehler gewertet. 
+6. Beachten Sie die Elemente, die bereits vorgegeben sind (Kommas, Punkte, Befehle, Rechenzeichen, ...) 
+
+select Me] kdnr)) from kundeninteressen L] intcode='HWE' L_] intcode='BAU' 
+
+    
+
+WBBSS__ZZPP__2 2 133 
+   
+
+
+
+WWBS ZF 5 Pri FaszE  0" 
+
+fungsfrager 
+
+  
+46. Datenbanken
+
+Auszug aus der Tabelle 'personal': 
+FEB Results [fÜ Messages 
+
+persnr nachname vorname akadgrad geschiecht abtig worgesetzter sozversnr famstand 
+1 101 Obermann Gemot Dr. 2 GL NULL 4587 2 
+2 115 Konstantin Martin Dipl.-ng. 2 GL 101 4169 2 
+3 182 Hille Bemadette NULL 1 GL 101 7755 2 
+4 238 Hoier Marion NULL 1 EK 285 1224 1 
+5 235 Meister Lorenz Mag. 2 EK 101 7511 2 
+6 332 Ideenrech Anastasia Mag. 1 MA 182 1845 1 
+7 387 Mörtl Gerald NULL 2 MA 332 1152 2 
+8 452 Kossagg Anita Dr. 1 EK 285 8349 2 
+9 455 Pullmeier Eva Dipl.-Hdi 1 FB 101 7854 2 
+10 602 Jurasok Gottfried NULL 2 VK 674 1145 2 
+
+11 633 Kofler Peter Dipl.-Kfm. 2 VK 674 3442 1 
+
+12 651 Nürnberger Klaus Dipl.-Kfm, 2 VK 674 1186 2 
+13 657 Neumann Maria Dipl.-Hdi 1 VK 674 8564 2 
+
+14 674 Loderer Hermine NULL 1 VK 115 4412 2 
+
+Hinweise zum Eintragen der Lösung: 
+
+1. Alle unten aufgeführten Eingabefelder müssen eine SQL-Anweisung ergeben (auch wenn hier eventuell mehr als eine Zeile dargestellt ist). 
+2. Tragen Sie die Worte, Zahlen bzw. Operatoren der SQL-Anweisung einzeln in die Eingabefelder ein. 
+3. Es wird nicht zwischen Groß- und Kleinschreibung unterschieden. 
+4. Fehler in der Rechtschreibung führen zu Fehlern in der Lösung und damit zu Punktabzug. 
+5. (überflüssige) Leerzeichen vor oder nach den Einträgen werden nicht als Fehler gewertet. 
+6. Beachten Sie die Elemente, die bereits vorgegeben sind (Kommas, Punkte, Befehle, Rechenzeichen, ...) 
+
+enen IL 1] simme 
+from personal | | | | = "ve 
+
+47. Datenbanken
+In der folgenden Abbildung ist ein Auszug aus dem Relationenmodell einer Datenbank dargestellt: 
+
+  
+#bl_artikel tbl_hersteller 
+ +  1 + - 
+
+atikeN int harstellerNummeirn t 
+© bezeichnung char(50) || © name char(50) 
+© herstellerNummer int 2     
+© nettoPreis decimal(10,2) tbI_mwstSatz 
+© mwsiNr int P— al   - 
+© bestand int nvsiNi nt 
+
+  © mindestBestand int © prozent  decimal(4,2) 
+O kategorie int a 
+© bestellVorschag  charlt) I   tL_kategorie 
+       
+
+  
+1 - - 
+
+$ kaleaodeNrin f 
+© bezeichnung char(50)   
+
+Geben Sie die SQL-Anweisung an, mit der eine Liste der Artikel erstellt wird, die vom Hersteller mit der Herstellernummer 42 kommen. Die Liste soll folgende In- 
+
+formationen enthalten: Artikelnummer, Artikelbezeichnung, Netto-Preis, Herstellernummer, Herstellerbezeichnung. 
+
+Hinweise zum Eintragen der Lösung: 
+
+1. Alle unten aufgeführten Eingabefelder müssen eine SQL-Anweisung ergeben (auch wenn hier eventuell mehr als eine Zeile dargestellt ist). 
+2. Tragen Sie die Worte, Zahlen bzw. Operatoren der SQL-Anweisung einzeln in die Eingabefelder ein. 
+3. Es wird nicht zwischen Groß- und Kleinschreibung unterschieden. 
+4. Fehler in der Rechtschreibung führen zu Fehlern in der Lösung und damit zu Punktabzug, 
+5, (überflüssige) Leerzeichen vor oder nach den Einträgen werden nicht als Fehler gewertet. 
+6. Beachten Sie die Elemente, die bereits vorgegeben sind (Kommas, Punkte, Befehle, Rechenzeichen, ...) 
+
+select ARTIKELNR, BEZEICHNUNG, NETTOPREIS, . „NAME 
+
+from tbLARTIKEL inner jain 1BLLHERSTELLER | II [ \-[ 
+
+[ ]-.2: 
+
+  
+
+WBBSS__zZpP_2 2 "il1 4
+    
+
+| 
+
+
+
+WWES ZPOE Pr F@azE 
+
+fungsfragen Kar 
+
+  
+48. Array
+Erstellen Sie bitte einen  geeig: u itt ein es) Q) zu folg, Aufgabenstellung: 
+ 
+
+- 85 soll zunächst ein 10 Felder umfassendes Integer-Array namens intArr deklariert (und definiert) werden 
+
+- anschließesnodll  das Feld (index 3) mit dem Wert 77 initialisiert werden 
+
+- zum Schluß soll der Inhalt des Feldes (Index 3) auf der Konsole ausgegeben werden 
+
+Hinweis - Folgender Quellcode wurde bereits erstellt: 
+
+#includesstdio.n> 
+void mainlvoid) 
+
+{ 
+4 Hier soll der gesuchte Code eingetrawgerednen  
+
+} 
+  
+
+[Füllen Sie hierzu bitte die DUNKEL-grauen Felder, indem Sie die passenden HELL-grauen Felder in die dunklen "hineinziehen”) 
+  
+
+7 | INFARREI=T?; 
+
+ Be  
+
+peim—mme—rtin erts]:   
+ntam{3l=77: 
+  
+
+ |  RATTE, | 
+
+Im Imker; | 
+
+Peiner,  narrtäle 
+
+49. Array
+Erstellen Sie bitte einen geeign (Ausschnitt eines) Quellcod: falsender Aufenh Ih 
+
+es soll zunächst ein 10 Felder umfassendes Character-Array namens *zeichenArray" deklariert (und definiert) werden 
+- anschließend soll eine Schleife starten, die alle Felder mit dem Buchstaben *Q” füllt 
+
+Int; 
+
+I Hier soll der gesuchte Code eingetrawgerednen  
+
+(Füllen Sie hierzu bitte die DUNKEL-grauen Felder, indem Sie die passenden HELL-grauen Felder in die dunklen "hineinziehen") 
+ 
+
+VOrb=DHe Nie) 
+
+     
+1 en 
+
+ 
+{ 
+, zeichenamayti-"Qt; 
+
+ 
+1 
+
+  zeichendeafe1]e'Q; 
+} 
+ 
+
+OO)   
+
+  
+
+WBBS_Sz_PZpP__22 1Fil5s 
+
+      
+
+- 
+
+
+
+WWES ZPO F Pr FE E 
+
+funesfrager Pre 
+
+  
+50. Array
+ErstSie blittle einnen   geeeii r 6 'hnitt eines) Quellc odes zu folgender Auf; 1 
+
+- e5 soll zunächst ein Array namens "text" deklariert werden, das Speicherplatz für 7 Strings {mit jeweils 20 Feldern pro String) reserviert 
+- anschließend soll das erste Feld mit "Montag" initlalisiert werden 
+- zum Schlsoull ßde r Inhalt des ersten Feldes zur Kontaruf oderl Klonesol e ausgegeben werden 
+
+Hinweis - Folgender Quellcode wurde bereits erstellt: 
+#include<stdio.h> 
+
+#includexstring.h> 
+
+void main{void) 
+
+{Hier soll der gesuchte Code eingetragen werden 
+
+(Füllen Sie hierzu bitte die DUNKEL-grauen Felder, indem Sie die passenden HELL-grauen Felder in die dunklen "hineinziehen”) 
+
+  
+
+    
+
+51. Funktion
+ErstSie blittle einnen   geeigr Wi eines)  zu 
+
+- die Float-Varlable "rueckgabewert" soll mittels Aufruf der Funktion "summe"* initialisiert werden 
+- als Übergasobllen dwie eFlroat-Wert e 10 und 20 übergeben werden 
+
+- der Rückgabewersotll  zur Kontrolle auf der Konsole ausgegeben werden 
+
+4 Hier soll der gesuchCtodee  eingetragen werden 
+
+{Füllen Sie hierzu bitte die DUNKEL-grauen Felder, indem Sie die passenden HELL-grauen Felder in die dunklen "hineinziehen") 
+
+  
+
+  
+
+    
+
+    WwBsSS__ZzPp_22  16
+    
+
+- m _ es 
+
+
+
+WWES ZPO F Pr FE E 
+
+funesfrager Pre 
+
+  
+52. Funktion
+Funktion (Kopf + Rumpf erstellen) 
+Frage 51 von 78 (9 Punkte) 
+Nicht beantwortet 
+
+Erstellen Sie bitte einen geeigneten (Ausschnitt eines) Quellcodes zu folgender Aufgabenstellung: 
+
+- die zu erstellende Funktion soll "istKleiner" heißen und einen Rückgabewert vom Typ char ermitteln 
+
+- die Funktion hat 2 Paramter (Übergabewerte) a und b, beide vom Typ Integer 
+
+- Die Funktion soll "w" zurückgeben, wenn a<b, sonst "f" 
+
+Hinweis - Folgender Quellcode wurde bereits erstellt: 
+
+#include<sstdio.h> 
+I Hier soll der gesuchte Code eingetragen werden 
+
+void main(void) 
+
+{ 
+/ Kontrollausgabe: 
+printf("%c",istKleiner(5,500)); 
+
+} 
+ 
+
+(Füllen Sie hierzu bitte die DUNKEL-grauen Felder, indem Sie die passenden HELL-grauen Felder in die dunklen "hineinziehen") 
+
+ 
+
+| int istkleiner(inat, int b) | 
+
+return 'w';} | 
+
+| {ifie <= b) return 'w‘; | 
+
+{fa < b) return 'w'; 
+
+  ‚char istkleinerfinat, int b)   
+| {fe < b) return(w‘); | 
+
+| ‚char istKleiner(int 3, b) | 
+
+return{f)} 
+
+  retum fi}   
+53. Funktion
+
+Erstellen Sie bitte einen geeigneten (Ausschnitt eines) Quellcodes zu folgender Aufgabenstellung: 
+
+- die zu erstellende Funktion soll "istKleiner“ heißen und einen Rückgabewert vom Typ char ermitteln 
+- die Funktion hat 2 Paramter (Übergabewerte) a und b, beide vom Typ Integer 
+
+- Die Funktion soll "w" zurückgeben, wenn a<b, sonst "f" 
+
+Hinweis - Folgender Quellcode wurde bereits erstellt: 
+#include<stdio.h> 
+
+/f Hier soll der gesuCodce ehingtetreage n werden 
+
+void main{void) 
+
+{ 
+1 Kontrollausgabe: 
+printf{"%c"istKleiner(5,500)); 
+
+} 
+ 
+
+(Füllen Sie hierzu bitte die DUNKEL-grauen Felder, indem Sie die passenden HELL-grauen Felder In die dunklen *hineimziehen") 
+
+  
+
+WBBSS__ZZPP__2 2 1"o7h 
+    
+
+  
+
+
+
+WWES ZPO E Prü FaäzE = 
+
+fungsfragen Bat 
+
+  
+5544. . Wisisseennsfsrfraaggee 
+
+Wissensfrage (1) 
+Frage 50 von 78 (3 Punkte) 
+
+Nicht beantwortet 
+
+Welche der folgenden Fragen treffen zu? 
+
+Bitte wählen Sie maximal 3 der 6 Antworten! 
+
+Nicht bei jeder if-Anweisung muss auch ein else vorkommen. 
+
+Nicht jede Funktion muss einen Rückgabewert haben. 
+
+Die Funktion scanf liegt in der Bibliothek "scan.h" 
+
+Bibliotheken besitzen stets mindesten 2 Funktionen. 
+
+Der Terminator eines Strings wird mittels EOF dargestellt. 
+
+Integer dürfen auch negative Werte annehmen. 
+
+5555. . Wisisseennsfsrfraaggee 
+
+Welche der folgenden Fragen treffen zu? 
+
+Bitte wählen Sie maximal 3 der 6 Antworten! 
+
+rand()%10 ermittelt eine Zufallszahl zwischen 0 und 9. 
+
+Die Charakteristik der internen Darstellung einer Floatzahl ist immer negativ. 
+
+Die Deklaration (und Definition) "int arr[10];" bedeutet: Der Speicherplatz für arr[10] ist NICHT reserviert. 
+
+Bei einem 2-dimensionalen Array muss die 2. Dimension mindestens so groß wie die erste sein. 
+
+rand(1,10) ermittelt eine Zufallszahl zwischen 1 und 10. 
+
+Das Vorzeichenbit ist bei positiven Zahlen 0. 
+
+5566. . Wisisseennsfsrfraaggee 
+
+Welche der folgenden Fragen treffen zu? 
+
+Bitte wählen Sie maximal 3 der 6 Antworten! 
+
+printf("%f",1) produziert die Ausgabe 1.000000. 
+
+Mit dem Code: scanf("Geben Sie bitte eine ganze Zahl ein: ",&x); kann eine ganze Zahl abgefragt werden. 
+
+Integer-Variablen benötigen in ANSI C einen Speicherplatz von maximal 2 Byte. 
+
+Funktionen ohne Rückgabewert heißen "Call-By-Reference"-Funktionen." 
+
+Mit der Deklaration "char* x;" wird ein Character-Pointer deklariert (und definiert). 
+
+print("Hallo Welt"); stellt einen Syntax-Fehler dar. 
+
+5577. . WWisissseennsfsrfraaggee 
+
+Welche der folgenden Fragen treffen zu? 
+
+Bitte wählen Sie maximal 3 der 6 Antworten! 
+
+Die for-Schleife ist NICHT NOTWENDIG zählergesteuert. 
+
+Die while-Schleife ist kopfgesteuert. 
+
+Die do-while-Schleife wird mindestens 1-mal durchlaufen. 
+
+for-Schleifen können niemals Endlosschleifen sein. 
+
+Verschachtelte Schleifen können in KEINEM Fall durch ein switch-case ersetzt werden. 
+
+Innerhalb eines Schleifenrumpfes dürfen KEINE Verzweigungen eingesetzt werden. 
+
+  
+
+WBBSS__ZZPP__2 2 18
+   
+
+UoOo0Oo00o0ü0h O00000 000000 
+
+UOUDOD 
+
+
+
+WWES ZPO E Prü FaäzE = 
+
+fungsfragen Bat 
+
+  
+5588. . Wisisseennsfsrfraaggee 
+
+Welche der folgenden Fragen treffen zu? 
+
+Bitte wählen Sie maximal 3 der 6 Antworten! 
+
+Die Codezeile: if(-23) printf("Hallo"); ergibt die Ausgabe "Hallo". 
+
+Mit der Codezeile: int arr[2,3]; wird ein 2-dimensionalea Array deklariert (und definiert). 
+
+Die Codezeile: int a="123"; stellt einen Syntaxfehler dar. 
+
+Die Schleife: while(1!=1){...} ist KEINE Endlosschleife. 
+
+Mit der Codezeile: char text[20]; text="Hallo Welt"; wird das Array text mit einem String initialisiert. 
+
+Der Rückgabewert von stremp("Hallo", "Welt") ist -1; 
+
+5599. . WIISSOO 
+Welche Reihenfolge für die Konkretisierung des Kaufwunsches ist richtig? 
+
+Bitte wählen Sie maximal 1 der 4 Antworten! 
+
+[J Bedürfnisse-Nachfrage-Bedarf 
+
+[J Bedürfnisse-Bedarf-Nachfrage 
+
+U] Nachfrage-Bedarf-Bedürfnisse 
+
+U] Bedarf-Nachfrage-Bedürfnisse 
+
+6600. . WIISSOO 
+Welche folgende Außerung treffen NICHT auf den Begriff „Vertragsfreiheit" zu? 
+(eine Antwort) 
+
+Bitte wählen Sie maximal 2 der 5 Antworten! 
+
+U] » Monopolisten dürfen ihre Vertragspartner frei wählen, bzw. Vertragspartner auch ausschließen (Kontrahierungszwang). 
+
+U + „Vertragsfreiheit bedeutet auch, dass jeder, der einen Vertrag abgeschlossen hat, diesen auch wieder kündigen kann." 
+
+D + „Vertragsfreiheit ist, wenn die Wirtschaftssubjekte auch den Inhalt der Verträge frei bestimmen können." 
+
+ED + „Um ihre Pläne realisieren zu können, müssen die Wirtschaftssubjekte die Möglichkeit haben, Verträge nach ihren Vorstellungen abzuschließen.“ 
+
+U + „Vertragsfreiheit bedeutet, den Vertragspartner frei wählen zu können." 
+
+6611. . WIISSOO 
+
+Leitzinspolitik, ständige Fazilität, Mindestreservepolitik und Offenmarktpolitik sind Begriffe geldpolitischer Maßnahmen. 
+Welche Aussage passt zu der Maßnahme > Mindestreservepolitik <? (eine Antwort) 
+
+AuSSagen... 
+
+Bitte wählen Sie maximal 1 der 4 Antworten! 
+
+U] » Die EZB kann am Wertpapiermarkt als Anbieter und Nachfrager bestimmter Wertpapiere auftreten. 
+
+7] * Zu einem bestimmten Zinssatz konnen sich die Geschaftsbanken bei der EZB kurzfristig Geld gegen Beleihung von Wertpapieren beschaffen. 
+U] +» Die Geschäftsbanken müssen zur Sicherung ihrer eigenen Liquidität bestimmte Prozentsätze der Einlagen (z. B. Sparguthaben) bei der EZB hinterlegen. 
+
+D] * Die Bundesregierung muss auf Weisung der EZB einen bestimmten Prozentsatz der Steuereinnahmen als Mindestreserve bei der Bundesbank anlegen. 
+
+6622. . WIISSOO 
+
+Welche der folgenden im Internet verfügbaren Datenbanken liefert keine Informationen über Bezugsquellen? 
+
+Bitte wählen Sie maximal 1 der 5 Antworten! 
+
+ED + IHK-Datenbank 
+
+U * „Wer liefert was?“ -Datenbank 
+
+ED + Gelbe Seiten 
+
+U] + ABC der deutschen Wirtschaft 
+
+ED +» Schufa-Datei 
+
+6633. . WIISSOO 
+Man kann Besitzer und/oder Eigentümer einer Sache oder eines Rechts werden. Welche Aussage zum >Eigentum« ist richtig? (eine Antwort) 
+
+Bitte wählen Sie maximal 1 der 4 Antworten! 
+
+O ® das Eigentum an einer beweglichen Sache kann nur durch Einigung und Übergabe erworben werden. 
+
+m) : : 
++ Gutgläubiger Erwerb bei verloren gegangenen oder gestohlenen Sachen ist möglich. 
+
+* Eigentum ist die rechtliche Herrschaft/Verfügbarkeit über eine Sache oder ein Recht. 
+
+DO 
+® Nur wer Besitzer ist kann auch Eigentümer sein. 
+
+  
+
+WBBSS__ZZPP__2 2 19
+   
+
+OO00 000 
+
+
+
+“WES ZPE Prü Fasz E 
+fungsfragen Ben 
+
+  
+6644. . WIISSOO 
+Die Omega-IT OHG ist aufgrund falscher Einschätzungen der zukünftigen Marktlage hoch verschuldet. Ihr Hauptlieferant hat kein Vertrauen mehr in die Zahlungsfähigkeit der Omega-IT 
+OHG und will die OHG auf Zahlung der längst fälligen Beträge verklagen. 
+
+Nehmen Sie aufgrund des geschilderten Sachverhaltes zu folgenden Aussagen Stellung. 
+
+Welche der folgenden Aussagen ist korrekt? (eine Antwort) 
+
+Bitte wählen Sie maximal 1 der 3 Antworten! 
+
+0 
+« Der Lieferer kann nur die Omega-IT OHG als Gesellschaft  da essich um  gen aus ungen für das Unternehmen handelt. 
+
+« Der Lieferer kann neben der Omega-IT OHG auch jeden einzelnen Gesellschafter verklagen. 
+
+0 « Der Lieferer kann entweder die Omega-IT OHG als Gesellschaft oder den geschaftsführenden Gesellschafter auf Zahlung verklagen. Alle auf einmal zu verklagen ist nicht möglich. 
+
+6655. . WIISSOO 
+Bestimmen Sie, wer die Aufgabe hat, grundsätzliche Fragen der Lohn- und Sozialpolitik mit den Arbeitgeberverbänden und der Regierung zu erörtern. 
+
+Bitte wählen Sie maxımal 1 der 5 Antworten! 
+
+D « Die Gewerbeaufsichtsämter 
+
+Oo 
+« Die Agenturen fur Arbeit 
+
+2 « Die Gewerkschaften 
+
+Q « Die Betriebsräte 
+
+Oo 
+« Die Industrie- und Handelskammern 
+
+6666. . WIISSOO 
+Gewerkschaften können in bestimmten Situationen Arbeitskampfmaßnahmen nur dann ergreifen, wenn sie das Votum der Mitglieder haben. 
+
+Fragen: 
+
+® wvıe viel Prozent der Abstimmungsberechtigten Gewerkschaftsmitglieder mussen mindestens bei der zweiten Urabstimmung zustimmen, damit es zu einem neuen Tarifvertrag kommt? 
+
+Bitte wählen Sie maximal 1 der 6 Antworten! 
+
+DI 50,00% 
+D 66,66% 
+DI 20.00% 
+D 75,00% 
+DD 80,00% 
+D 3.00% 
+
+6677. . WIISSOO 
+Welches Instrument der antizyklischen Fiskalpolitik ist in der Rezession richtig angewendet? 
+
+° « Einschränkung der Abschreibungsmöglichkeiten 
+
+O « Erhöhung der Bautätigkeit durch staatliche Aufträge und entsprechende Bauförderungsmaßnahmen 
+
+« Ausgabensperre für alle öffentlichen Investitionen 
+
+° « Erhöhung der Einkommen-, Körperschafts- und Gewerbesteuer-vorauszahlungen 
+
+oO 
+« Erhebung eines Konjunkturzuschlages 
+
+  
+
+WBBS_Sz_PZpP__22 2"l0e 
+    
+
+
+
+“WES ZPE Prü Fasz E 
+fungsfragen Ben 
+
+  
+6688. . WIISSOO 
+
+Ordnen Sie aus dem Schaubild die eingerahmte Kennziffer dem Güterbegriff " Produktionsgüter" 
+
+L_Süter 
+
+[ Freie er m | 
+
+"Immaterele|  
+[12]  Güter   
+
+   —S  
+\_ Konsumgüter | + ] | 
+
+[ Gebrauchs | | 15) | (8) | Verbrauchs- 
+  guter güter 
+
+O [6] 
+oO m 
+O B] 
+
+oO 4 
+OB 
+O Bl 
+
+6699. . WIISSOO 
+Bei welchem Güterpaar handelt es sich um Komplementärgüter? 
+
+Bitte wählen Sie 1 von 5 Antworten! 
+
+OÖ Motorrad - Moped 
+
+OÖ Kohle - Erdöl 
+
+OÖ Tower PC - Laptop 
+
+OÖ CD Laufwe-r kCD  
+
+OÖ Staubsauger - Waschmaschine 
+7700. . WIISSOO 
+
+Welche Aussage trifft auf den Konzern zu? 
+
+O « Rechtlich selbständige Betriebe werden zu wirtschaftlichen Zwecken unter einheitlicher Leitung verbunden. 
+
+oO « Der Vertrieb der Erzeugnisse geschieht über eine gemeinsame Verkaufsstelle mit eigener Rechtsform. 
+
+oO ® Durch vertraglich vereinbarte Rabattgewährung wird der Wettbewerb innerhalb einer Wirtschaftsbranche eingeschränkt. 
+
+O + Der Verband einer Versicherungssparte empfiehlt seinen Mitgliedern einheitliche Versicherungsbedingungen. 
+
+O 
+® Rechtlich und wirtschaftlich voneinander unabhängige Unternehmen vereinbaren eine langfristige Zusammenarbeit im Bereich des Kundendienstes. 
+
+  
+
+WBBSS__ZZPP__2 2 21
+    
+
+
+
+“WES ZPE Prü FaizE 
+
+fungsfragen Bat 
+
+  
+7711. . WIISSOO 
+
+Welche Rechte hat der Betriebsrat nach dem BetrVG, wenn ein Unternehmen einen Arbeitnehmer einstellen wıll? 
+
+Er kann seine Zustimmung verweigern, wenn eine vom Betriebsrat geforderte innerbetriebliche Stellenausschreibung unterblieben ist. 
+
+Er kann seine Zustimmung ohne Angabe von Gründen innerhalb von 14 Tagen verweigern. 
+
+Er muss lediglich informiert werden: die vorliegenden Bewerbungsunterlagen müssen ihm nicht vorgelegt werden. 
+
+Er muss nur informiert werden, wenn ein schwerbehinderter Arbeitnehmer eingestellt wird, da die Einstellung schwerbehinderter Arbeitnehmer gefördert werden soll. 
+
+Er hat ein Mitbestimmungsrecht bei der Auswahl der Bewerber. 
+
+72. WIISSOO 
+
+Welche Aussage über Manteltarifverträge ist richtig. 
+
+Bitte wählen Sie 1 von 5 Antworten! 
+
+Manteltarifverträge regeln z.B. die Arbeitszeit, Schichtzuschläge, Überstundenzuschläge. 
+
+Die in Manteltarifverträgen vereinbarten Bedingungen können vom Arbeitgeber bei Vorliegen wichtiger Gründe vorübergehend aufgehoben werden. 
+
+Der Bundesminister des Innern kann einen Manteltarifvertrag für allgemeinverbindlich erklären. 
+
+Manteltarifverträge werden zwischen Betriebsräten und einzelnen Arbeitgebern abgeschlossen. 
+
+Die Gewerkschaften können einen Manteltarifvertrag für allgemeinverbindlich erklären. 
+
+7733. . WIISSOO 
+Welcher Sachverhalt beschreibt einen Verstoß gegen die Tarifautonomie? 
+
+Bitte wählen Sie 1 von 5 Antworten! 
+
+Die Tarifpartner vereinbaren nach Vorschlag eines politischen Schlichters einen neuen Tarifvertrag. 
+
+Der Arbeitsminister setzt nach wochenlangen Arbeitskämpfen eine Anhebung der Löhne um 4 % fest. 
+
+Die Gewerkschaft ruft nach dem Scheitern der Tarifverhandlungen zur Urabstimmung auf. 
+
+Der Wirtschaftsminister appelliert an die Tarifparteien, bei den Tarifverhandlungen die gesamtwirtschaftliche Lage zu beachten. 
+
+Der Arbeitgeberverband erklärt die Tarifverhandlungen für gescheitert. 
+
+74. WwıIsSoO 
+Bei welcher folgenden Aussagen handelt es sich um eine Marktprognose. 
+
+Bitte wählen Sie 1 von 4 Antworten! 
+
+Hierbei handelt es sich um eine nicht systematische Untersuchung des Marktes. 
+
+Untersuchung des Marktes über einen längeren Zeitraum hinweg . 
+
+Der Markt wird nur einmalig untersucht, zu einem bestimmten Zeitpunkt. 
+
+Zukünftige Marktverhältnisse werden abgeschätzt und vorausberechnet. 
+
+7755. . WIISSOO 
+
+Die Sekundärforschung benutzt Quellenmaterial, das bereits für andere Zwecke erstellt wurde. 
+
+Entscheiden Sie, bei welchen nachfolgenden Beispielen es sich um eine "innerbetriebliche Bezugsquelle" handelt. 
+
+Bitte wählen Sie maximol 2 der 4 Antworten! 
+
+U] veröffentlichungen wissenschaftlicher Institute 
+n 
+
+Lagerbestandsmeldungen 
+
+DO Berichte der Außendienstmitarbeiter 
+
+Oo Preislisten der Korikurrenzfirmnen 
+
+7766. . WIISSOO 
+
+Die Firma Helmich GmbH muss Insolvenz anmelden. 
+
+Welcher der folgenden Gründe stellt eine allgemeine Voraussetzung für die Eröffnung eines Insolvenzverfahrens dar? 
+
+OÖ Zahlungsunfähigkeit 
+OÖ Kreditunwürdigkeit 
+
+OÖ Kreditunfähigkeit 
+
+OÖ Geschäftsunfähigkeit 
+
+OÖ Zahlungsunwilligkeit 
+
+  
+
+WBBSS__ZZPP__2 2 22
+   
+
+000 200080 00000 S n 00000 
+
+
+
+WIES ZP FE Prü FanE 
+fungsfragen Bat 
+
+  
+7777. . WwIiIsSoO 
+Welche 2 der nachstehenden Aussagen sind richtig? 
+
+Auch Privatpersonen dürfen Prokura erteilen. 
+
+Die Prokura erlischt mit dem Tod des Firmeninhabers. 
+
+Nur der Inhaber eines Handelsgeschäftes oder dessen gesetzlicher Vertreter dürfen Prokura erteilen. 
+
+Ein Handlungsbevollmächtigter darf mit einer Sondervollmacht für die Unternehmung einen Prozess führen: ohne besondere Vollmacht ist dies nicht möglich. 
+
+Handlungsbevollmächtigte und auch Prokuristen dürfen ohne besondere Vollmacht betriebliche Grundstücke veräußern. 
+
+Die Erteilung der Prokura ist an keine Form gebunden, d.h. ‚sie darf auch stillschweigend erteilt werden. 
+
+7788. . WIISSOO 
+
+Welche 2 der unten aufgeführten Personen stehen unter einem besonderen gesetzlichen Kündigungsschutz? 
+
+U] Alexandrakis Mostakis, Prokurist der Office Experten 
+
+ED] Schwerbehinderter 
+
+U] Leiter der Personalabteilung 
+
+EU] Auszubildender während der Probezeit 
+
+U] Praktikant 
+
+U] Arbeitnehmerin im Mutterschutz 
+
+7799. . WIISSOO 
+Jugendliche haben je nach Alter einen Anpruch auf mehr Urlaubstage als die gesetzlich vorgeschriebenen 24 Tage, die jedem Arbeitnehmer zustehen. 
+
+Der Urlaub beträgt jährlich 
+
+1. mindestens 30 Werktage, wenn der Jugendliche zu Beginn des Kalenderjahrs noch nicht 16 Jahre alt ist, 
+2. mindestens 27 Werktage, wenn der Jugendliche zu Beginn des Kalenderjahrs noch nicht 17 Jahre alt ist, 
+3. mindestens 25 Werktage, wenn der Jugendliche zu Beginn des Kalenderjahrs noch nicht 18 Jahre alt ist. 
+
+Gegeben sind folgende Tabellen: 
+
+mitarbeiter 
+
+Fred 
+
+471 
+
+Geben Sie Vor- und Nachname aller Personen aus, die insgesamt mehr als 24 Tage Urlaub haben. 
+
+© SELECT ma_!D FROM urlaub ORDER BY urlaub_genommen DESC UMIT 24; 
+
+OÖ SELECT vorname, nachname FROM mitarbeiter WHERE urlaub.urlaub_gesamt >24; 
+
+OÖ SELECT ma_ID, COUNT(urlaub_genommen) FROM urlaub ORDBYE urRla ub_genommen DESC; 
+OÖ SELECT ma_!D, MAX{urlaub_genommen) > 24 FROM urlaub: 
+
+OÖ SELECT vorname, nachname FROM mitarbeiter, urlaub WHERE mitarbeiter.ma_ID - urlaub.ma_ID AND urlaub_gesamt >24; 
+
+© SELECT vorname, nachname FROM mitarbeiter LEFT JOIN urlaub on urlaub.ma_!D = mitarbeiter.ma_ID WVHERE urlaub.urlaub_gesamt = 24; 
+
+  
+
+  WBBSS__ZZPP__2 2 23
+   
+
+OOo 000
